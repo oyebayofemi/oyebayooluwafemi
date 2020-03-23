@@ -1,0 +1,5 @@
+FullName: OYEBAYO OLUWAFEMI JEREMIAH
+Email: oyebayooluwafemi@gmail.com
+Slack Username: oyebayo oluwafemi
+Tracks: Back-End, Desogn, Coding
+Courses: csharp, design, flutter, nodejs,php,python
